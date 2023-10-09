@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshitthakur1
-- 👀 I’m interested in 
+- 👀 I’m interested in data analyst positions
 - 🌱 I’m currently learning web scrapping
 - 💞️ I’m looking to collaborate on data analyst real time projects
 - 📫 You can reach me via my mail id harshitkthakur@gmail.com
